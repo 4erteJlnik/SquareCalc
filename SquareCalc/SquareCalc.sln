@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareCalc", "SquareCalc.csproj", "{399AA32C-5370-47FE-8F66-F9B2223135B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiguresTest", "..\FiguresTest\FiguresTest.csproj", "{6BEBCF54-1544-4DCF-8624-F7B56F87A27D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiguresLibrary", "..\FiguresLibrary\FiguresLibrary.csproj", "{CB7EC3F5-FF96-4142-BEDB-00456B96B137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399AA32C-5370-47FE-8F66-F9B2223135B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399AA32C-5370-47FE-8F66-F9B2223135B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399AA32C-5370-47FE-8F66-F9B2223135B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399AA32C-5370-47FE-8F66-F9B2223135B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BEBCF54-1544-4DCF-8624-F7B56F87A27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BEBCF54-1544-4DCF-8624-F7B56F87A27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BEBCF54-1544-4DCF-8624-F7B56F87A27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BEBCF54-1544-4DCF-8624-F7B56F87A27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB7EC3F5-FF96-4142-BEDB-00456B96B137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB7EC3F5-FF96-4142-BEDB-00456B96B137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB7EC3F5-FF96-4142-BEDB-00456B96B137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB7EC3F5-FF96-4142-BEDB-00456B96B137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FAD866F-1868-4CAA-BA1D-CB91F2653133}
+	EndGlobalSection
+EndGlobal
